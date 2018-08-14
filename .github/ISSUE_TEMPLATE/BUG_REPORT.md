@@ -1,6 +1,6 @@
 ---
 name: Issue report
-about: Having and issues. Please create a report to explain what it is about.
+about: Having an issue? Please create a report to explain what it is about.
 
 ---
 
